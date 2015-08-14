@@ -1,1 +1,1 @@
-Passwords encrypted by `https://github.com/fuqcool/blackbox`.
+Passwords encrypted by https://github.com/fuqcool/blackbox.
